@@ -1,0 +1,3 @@
+# ALL: fire from the available store when the other store is empty
+GT4500,0,0,1,0
+TORPEDO,ALL

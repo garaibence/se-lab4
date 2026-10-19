@@ -1,0 +1,5 @@
+# SINGLE: after primary fire and fallback to primary, both empty stores report failure
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

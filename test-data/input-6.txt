@@ -1,0 +1,3 @@
+# ALL: try the secondary store even when the primary firing fails
+GT4500,1,1,1,0
+TORPEDO,ALL
