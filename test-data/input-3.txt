@@ -1,0 +1,4 @@
+# SINGLE: when the next store is empty, try the other store
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
